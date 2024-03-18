@@ -17,7 +17,8 @@ html {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     font-size: 7vw;
-    margin-top: -10vh;
+    margin-top: -12vh;
+    margin-bottom: -10vh;
 }
 
 #pictures {
@@ -28,13 +29,14 @@ html {
 }
 
 div img {
-    width: 500px;
-    height: 400px;
+    width: 550px;
+    height: 440px;
     border: 2px solid black;
     /* border-radius: 1vw; */
     cursor: pointer;
     margin: 3vw;
     transition: 400ms;
+    /* margin-top: -3vh; */
 }
 
 div img:hover {
@@ -75,6 +77,7 @@ div img:hover {
 
     #header {
         margin-top: -2vh;
+        margin-bottom: -2vh;
         font-size: 9.9vw;
     }
 
@@ -83,8 +86,8 @@ div img:hover {
     }
 
     div img {
-        width: 80vw;
-        height: 60vw;
+        width: 87vw;
+        height: 69vw;
     }
 }
   
