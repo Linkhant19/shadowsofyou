@@ -9,6 +9,7 @@ html {
     display: flex;
     text-align: left;
     margin-left: 2vw;
+    font-size: 1.2vw;
     border-radius: 10%;
     border-left: 10vw;
 }
@@ -26,6 +27,16 @@ html {
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
+}
+
+#author {
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.25vw;
+    line-height: 0.3vh;
 }
 
 div img {
@@ -81,8 +92,12 @@ div img:hover {
         font-size: 9.9vw;
     }
 
-    #heading{
+    #heading {
         font-size: 3.3vw;
+    }
+
+    #author {
+        font-size: 3.35vw;
     }
 
     div img {
