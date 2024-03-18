@@ -20,6 +20,28 @@ html {
     margin-top: -10vh;
 }
 
+#pictures {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+div img {
+    width: 500px;
+    height: 400px;
+    border: 2px solid black;
+    /* border-radius: 1vw; */
+    cursor: pointer;
+    margin: 3vw;
+    transition: 400ms;
+}
+
+div img:hover {
+    filter: contrast(10%);
+    transform: scale(1.03);
+}
+
 
 #stars3 {
     width: 5px;
@@ -58,6 +80,11 @@ html {
 
     #heading{
         font-size: 3.3vw;
+    }
+
+    div img {
+        width: 80vw;
+        height: 60vw;
     }
 }
   
