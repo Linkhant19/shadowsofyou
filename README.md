@@ -21,6 +21,8 @@ for those you love, sooner or later, they will get introduced to the tears that 
 change, they have also become part of the shadows on the white walls. They have walked out of your door.
 </em>
 
+<br>
+
 inspiration and background 'shadows' animation: https://codepen.io/sarazond/pen/LYGbwj
 
 
