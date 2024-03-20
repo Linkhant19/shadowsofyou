@@ -18,7 +18,7 @@ html {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     font-size: 7vw;
-    margin-top: -12vh;
+    margin-top: -5vw;
     margin-bottom: -10vh;
 }
 
@@ -40,12 +40,12 @@ html {
 }
 
 div img {
-    width: 550px;
-    height: 440px;
+    width: 680px;
+    height: 500px;
     border: 2px solid black;
-    /* border-radius: 1vw; */
+    border-radius: .3vw;
     cursor: pointer;
-    margin: 3vw;
+    margin: 2vw;
     transition: 400ms;
     /* margin-top: -3vh; */
 }
