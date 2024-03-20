@@ -114,6 +114,12 @@ div img:hover {
         font-size: 3.35vw;
     }
 
+    #words {
+        margin-top: -12vw;
+        font-size: 2.9vw;
+        line-height: 3.1vw;
+    }
+
     div img {
         width: 87vw;
         height: 69vw;
