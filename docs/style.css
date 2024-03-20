@@ -22,6 +22,20 @@ html {
     margin-bottom: -10vh;
 }
 
+#words {
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    text-align: left;
+    color: rgb(100, 99, 99);
+    margin-left: 2vw;
+    margin-right: 2vw;
+    margin-top: -10vw;
+    font-size: 1vw;
+    border-radius: 10%;
+    border-left: 10vw;
+    line-height: 1.7vw;
+}
+
 #pictures {
     display: flex;
     justify-content: space-around;
