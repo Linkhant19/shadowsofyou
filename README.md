@@ -1,6 +1,6 @@
 <h1>Shadows of You</h1>
 
-Link to Website: linkhant19.github.io/ShadowsOfYou/
+Link to Website: https://linkhant19.github.io/ShadowsOfYou/
 
 I used to host my previous poem collections on my website on WordPress, but I wanted more creative freedom on how the aesthetics and tones of this collection is portrayed. For example, in each poem is a repo of their own and they are supposed to represent a flip book. As the reader reads through the flip book, the pages will get darker and darker like shadows consuming the story as it progresses. 
 
