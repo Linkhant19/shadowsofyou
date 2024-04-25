@@ -10,6 +10,8 @@ I do have some experience in web design, but the biggest challenge for me came f
 
 <em>I have noticed that currently, the website is not functioning as expected on iPads, so I took note of that and I will be fixing that in the future. </em>
 
+<em>I have also just noticed that my import from fontawesome is not working anymore. I need to fix it soon. </em>
+
 There are also some simple but subtle design decisions I made that you may notice. One of the examples is the background getting darker and darker as the pages are flipped. It is supposed to be a subtle indication of the shadows becoming more and more apparent and consuming the narrator as the story progresses. There are more references like this example that you may notice throughout my website. 
 
 <h2><em>
